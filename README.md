@@ -11,6 +11,7 @@ Es un microservio que ayuda a la gestion de productos
 ```bash
 - Java 17
 - Maven 3.8+
+- PostgreSQL 17
 ```
 ## Instalacion
 Crea una carpeta donde se va ha guardar el proyecto y habre un cmd dentro de la ruta
