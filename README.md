@@ -49,7 +49,7 @@ puedes ingresar con la siguiete URL http://localhost:8081/productos y se debe en
 ```
 
 ## Test
-El microservio ya tiene pruebas unitarias 
+El microservio ya tiene pruebas unitarias y pruebas de integracion
 ## Excepciones 
 EL microservicio ya cuenta con un manejo de excepciones y son manejadas con condigos HTTP
 
