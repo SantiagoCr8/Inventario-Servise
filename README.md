@@ -13,6 +13,16 @@ Es un microservio que ayuda a la gestion de productos
 - Maven 3.8+
 - PostgreSQL 17
 ```
+## Base de datos
+El microservicio utiliza PostgreSQL 17 y se debe hacer la siguiete configuracion a la base de datos
+```bash
+username: postgres
+password: admin
+port: 5432
+database: postgres
+```
+si quiere cambiar la base de datos lo puede hacer en application.properties
+
 ## Instalacion
 Crea una carpeta donde se va ha guardar el proyecto y habre un cmd dentro de la ruta
 
