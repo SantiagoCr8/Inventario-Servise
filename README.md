@@ -63,6 +63,15 @@ puedes ingresar con la siguiete URL http://localhost:8081/productos y se debe en
 El microservio ya tiene pruebas unitarias y pruebas de integracion
 ## Excepciones 
 EL microservicio ya cuenta con un manejo de excepciones y son manejadas con condigos HTTP
+## Documentacion Microservicio
+Con las siguiente URI se puede ingresar a la documentacion de los enpoint /doc/swagger-ui/swagger-ui/index.html
+
+<img width="1465" height="675" alt="image" src="https://github.com/user-attachments/assets/0ca098b9-a85c-4dfd-bc75-26356b1d71e4" />
+
+Ejemplo:
+
+http://localhost:8081/doc/swagger-ui/swagger-ui/index.html
+
 
 
 
